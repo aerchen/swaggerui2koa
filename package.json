@@ -1,6 +1,6 @@
 {
   "name": "swaggerui2koa",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "swagger ui middleware for koa2",
   "main": "index.js",
   "directories": {
