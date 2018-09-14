@@ -1,0 +1,36 @@
+{
+  "name": "swaggerui2koa",
+  "version": "0.0.1",
+  "description": "swagger ui middleware for koa2",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aerchen/swaggerui2koa.git"
+  },
+  "keywords": [
+    "swagger",
+    "ui",
+    "koa2",
+    "middleware",
+    "openapi",
+    "swagger2"
+  ],
+  "author": "Darren Chen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aerchen/swaggerui2koa/issues"
+  },
+  "homepage": "https://github.com/aerchen/swaggerui2koa#readme",
+  "dependencies": {
+    "js-yaml": "^3.12.0",
+    "koa": "^2.5.3",
+    "koa-static": "^5.0.0",
+    "lodash": "^4.17.11"
+  }
+}
