@@ -2,6 +2,11 @@
 
 swagger ui middleware for koa2
 
+install
+```
+npm install swaggerui2koa
+```
+
 example
 ```
 const app = new koa();
